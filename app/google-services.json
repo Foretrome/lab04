@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "823183211011",
+    "firebase_url": "https://lab04-c76ff.firebaseio.com",
+    "project_id": "lab04-c76ff",
+    "storage_bucket": "lab04-c76ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823183211011:android:24d8a0a68d2a4b84",
+        "android_client_info": {
+          "package_name": "com.example.foretrome.lab04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823183211011-8bjvjk1b90m9isbn9uge7bje1pi73glh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foretrome.lab04",
+            "certificate_hash": "1f0744104bd2ba4147b47c1b86d4d73df0ceabdc"
+          }
+        },
+        {
+          "client_id": "823183211011-t98me5dp192lvrlrc1feg8r0oj620199.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foretrome.lab04",
+            "certificate_hash": "3ec882d2dd95228971ef981e77710751a1cfe6fa"
+          }
+        },
+        {
+          "client_id": "823183211011-q6hpe53fffl4lbmflrdhe78c30mit2a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2kr2JPq2cqyAGMrnyozR-JzclO-vodTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823183211011-q6hpe53fffl4lbmflrdhe78c30mit2a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823183211011:android:e59df3d2484bb78e",
+        "android_client_info": {
+          "package_name": "com.example.marts.mobilelab4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823183211011-6u5edlieouqtl6k03qddjljilhhctkgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marts.mobilelab4",
+            "certificate_hash": "1f0744104bd2ba4147b47c1b86d4d73df0ceabdc"
+          }
+        },
+        {
+          "client_id": "823183211011-q6hpe53fffl4lbmflrdhe78c30mit2a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2kr2JPq2cqyAGMrnyozR-JzclO-vodTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823183211011-q6hpe53fffl4lbmflrdhe78c30mit2a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
